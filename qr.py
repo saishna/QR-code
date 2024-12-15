@@ -30,7 +30,7 @@ img = qr.make_image(fill='black', back_color='white')
 img.save("qrcode_example.png")
 
 # Display the image
-img.show()  
+# img.show()  
 
 
 
